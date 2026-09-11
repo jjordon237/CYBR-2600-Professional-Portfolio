@@ -228,11 +228,11 @@ This approach demonstrates both the final result and the reasoning used to reach
 - [x] Create the professional GitHub portfolio
 - [x] Establish the required repository structure
 - [x] Confirm access to the Forage platform
-- [ ] Confirm access to the KC7 Cyber classroom
-- [ ] Select two Forage job simulations
-- [ ] Identify a primary certification target
-- [ ] Complete baseline certification assessment
-- [ ] Add baseline résumé
+- [x] Confirm access to the KC7 Cyber classroom
+- [x] Select two Forage job simulations
+- [x] Identify a primary certification target
+- [x] Complete baseline certification assessment
+- [x] Add baseline résumé
 - [ ] Complete assigned KC7 Cyber investigations
 - [ ] Document technical projects and artifacts
 - [ ] Create an evidence-based portfolio summary
