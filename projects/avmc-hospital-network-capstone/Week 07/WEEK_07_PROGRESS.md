@@ -1,5 +1,5 @@
-[WEEK_7_PROGRESS.md](https://github.com/user-attachments/files/32981128/WEEK_7_PROGRESS.md)
-# AVMC Capstone - Week 07 Progress Report
+[WEEK_7_PROGRESS.md](https://github.com/user-attachments/files/32981431/WEEK_7_PROGRESS.md)
+# AVMC Capstone - Week 7 Progress Report
 
 **Project:** Appalachian Valley Medical Center (AVMC)  
 **Student:** James Jordon  
@@ -17,6 +17,10 @@ The Facilities work added a BMS server, facilities workstation, HVAC/thermostat 
 The week also included several Packet Tracer troubleshooting exercises involving inconsistent IoT object behavior, stale DHCP behavior, wireless registration, and device replacement. These issues were resolved without unnecessarily redesigning working network infrastructure.
 
 Week 7 ended with both VLAN 80 FACILITY and VLAN 70 GUEST operating successfully at baseline. Security restrictions are deliberately reserved for Week 8 so that the project retains a clear pre-hardening state for comparison.
+
+![Week 7 AVMC topology overview showing the Facilities/BMS environment and clustered guest waiting-room devices](images/01-week7-topology-overview.png)
+
+*Figure 1. Week 7 topology overview. The Facilities/BMS environment appears beside the guest waiting-room wireless cluster, showing how the new endpoints integrate with the existing AVMC core.*
 
 ---
 
@@ -177,6 +181,10 @@ Packet Tracer does not provide a suitable native smart-TV endpoint for this use 
 
 Functionally, the device remains a real wireless guest endpoint on VLAN 70 rather than a decorative object. It received a valid DHCP lease and participated in the same network as the other waiting-room devices.
 
+![WAITING-ROOM-TV1 DHCP, gateway, and DNS details](images/05-waiting-room-tv-network-details.png)
+
+*Figure 2. `WAITING-ROOM-TV1` operating as a genuine VLAN 70 wireless endpoint. The custom icon improves visual realism while the underlying generic wireless device provides functional network behavior.*
+
 This approach demonstrates a practical modeling technique: use the available simulator object for network behavior while customizing its appearance to better represent the real-world endpoint being modeled.
 
 ---
@@ -224,6 +232,10 @@ The guest network was validated in stages.
 
 `WAITING-ROOM-TV1` also received a valid VLAN 70 address (`10.40.70.15` during testing), confirming that the custom smart-TV simulation was functioning as a real network endpoint.
 
+![Guest laptop DHCP, gateway, and DNS information](images/02-guest-laptop-ip-details.png)
+
+*Figure 3. `GUEST-LAPTOP1` receiving the expected VLAN 70 addressing information through DHCP, including the guest gateway and centralized AVMC DNS server.*
+
 ### Gateway Reachability
 
 `GUEST-LAPTOP1` successfully pinged `10.40.70.1` with 0% packet loss, proving:
@@ -234,11 +246,19 @@ The guest network was validated in stages.
 - VLAN 70 access-port placement
 - VLAN 70 SVI/gateway operation
 
+![Guest laptop successfully pinging the VLAN 70 gateway](images/03-guest-laptop-gateway-ping.png)
+
+*Figure 4. `GUEST-LAPTOP1` successfully reaching `10.40.70.1` with 0% packet loss, validating the wireless-to-gateway path.*
+
 ### Internal Baseline Reachability
 
 Guest devices were also able to reach `10.40.50.2`, the internal AVMC DNS/DHCP server, before security hardening.
 
 This is intentionally retained as **pre-ACL baseline evidence**. In Week 8, guest traffic will be restricted so that visitors can reach approved public resources without reaching protected AVMC internal networks.
+
+![Guest tablet successfully reaching the internal AVMC DNS server before ACL hardening](images/04-guest-tablet-internal-baseline-ping.png)
+
+*Figure 5. `PERSONAL-TABLET1` reaching `10.40.50.2` before guest isolation is applied. This provides a clear before-state for the Week 8 ACL validation.*
 
 ---
 
