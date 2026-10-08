@@ -100,14 +100,13 @@ This public portfolio contains work from authorized academic or practice environ
 
 ---
 
-
 ## Contact
 
 I welcome opportunities to discuss cybersecurity, networking, systems administration, technical support, and related professional roles.
 
-- **Email:** [jamesjordon43@outlook.com]
-- **LinkedIn:** [www.linkedin.com/in/james-t-1894392bb]
-- **GitHub:** [(https://github.com/jjordon237)]
+- **Email:** [jamesjordon43@outlook.com](mailto:jamesjordon43@outlook.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/james-t-1894392bb/)
+- **GitHub:** [github.com/jjordon237](https://github.com/jjordon237)
 - **Résumé:** [View my résumé](career-materials/)
 
 ---
