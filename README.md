@@ -1,270 +1,113 @@
+[CYBR2600_Professional_Portfolio_README.md](https://github.com/user-attachments/files/33226671/CYBR2600_Professional_Portfolio_README.md)
 <div align="center">
 
-# James Jordon
+# James Taylor Jordon
 
-## Cybersecurity & Network Systems Professional Portfolio
+### CYBERSECURITY & NETWORK SYSTEMS
 
-![Program](https://img.shields.io/badge/Program-Cybersecurity%20%26%20Network%20Systems-1f6feb?style=for-the-badge)
-![GPA](https://img.shields.io/badge/GPA-3.93-238636?style=for-the-badge)
-![Course](https://img.shields.io/badge/Practicum-CYBR--2600-7c3aed?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Actively%20Developing-f59e0b?style=for-the-badge)
+**Security Analysis · Incident Response · Network Infrastructure · Governance & Risk**
 
-**Security Analysis • Incident Response • Networking • Systems Administration • Technical Documentation**
+![Program](https://img.shields.io/badge/PROGRAM-CYBERSECURITY_%26_NETWORK_SYSTEMS-172B4D?style=flat-square&labelColor=101827&color=2563EB)
+![GPA](https://img.shields.io/badge/GPA-3.93-15803D?style=flat-square&labelColor=101827)
+![Practicum](https://img.shields.io/badge/PRACTICUM-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
+![Graduation](https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&labelColor=101827)
+
+**Hocking College** · A.A.S. Cybersecurity & Network Systems (expected December 2026)  
+**Ohio University** · B.A. Psychology
+
+[**Featured AVMC Project**](projects/avmc-hospital-network-capstone/) · [**Practicum**](final-practicum/) · [**Career Materials**](career-materials/) · [**GitHub Profile**](https://github.com/jjordon237)
 
 </div>
 
 ---
 
-## Professional Summary
+## About Me
 
-I am a Cybersecurity and Network Systems student at Hocking College with a **3.9 GPA**, membership in **Phi Theta Kappa**, and a previous **Bachelor of Arts in Psychology from Ohio University**.
+I am a cybersecurity and network systems student preparing for entry-level opportunities in security operations, network administration, incident response, and IT support. I bring an interdisciplinary background in psychology, education, social services, and operations to technical problem-solving. My work emphasizes practical testing, clear documentation, responsible decision-making, and the human consequences of security controls.
 
-My technical education includes cybersecurity operations, networking, Windows and Linux administration, vulnerability assessment, incident response, scripting, cyber law and ethics, and professional technical documentation.
+This portfolio presents selected **academic simulations**, **supervised hands-on IT experience**, and **professional-development activities**. Projects are documented with their objectives, technical approach, evidence, outcomes, and limitations.
 
-My psychology background provides an additional perspective on the human side of cybersecurity, including social engineering, insider risk, security awareness, ethical decision-making, and the ways people interact with technology and security controls.
+## Featured Project: Appalachian Valley Medical Center (AVMC)
 
-I am building this portfolio to provide employers with clear, verifiable evidence of my technical abilities, analytical reasoning, communication skills, professional judgment, and commitment to continued development.
+**Simulated Healthcare Network & Cybersecurity Capstone | Cisco Packet Tracer**
 
----
+Designed, configured, tested, and documented a fictional hospital network using a collapsed-core architecture. The project integrates network segmentation, controlled inter-VLAN connectivity, operational services, healthcare-oriented security policies, and a ransomware incident-response tabletop.
 
-## Career Objective
+**Technical highlights**
 
-I am preparing for an entry-level opportunity where I can contribute to the protection, reliability, and responsible administration of information systems while continuing to develop as a cybersecurity professional.
+- Multilayer switching with VLANs, trunk links, switched virtual interfaces (SVIs), and inter-VLAN routing.
+- Segmented Administration, Clinical, Imaging/Lab, Medical IoT, Servers, IT Management, Guest, Facilities/BMS, and Cold Backup environments.
+- Access control lists (ACLs) to restrict unnecessary traffic between trust zones.
+- Internal and public-facing web-service simulations, DNS/DHCP, and representative building-management/IoT devices.
+- Before-and-after Packet Tracer tests documenting recovery-zone reachability and subsequent ACL enforcement.
+- Acceptable Use, Access Control, and Incident Response policies mapped to NIST CSF 2.0.
+- Ransomware tabletop, after-action analysis, corrective actions, and technical evidence.
 
-My primary career interests include:
+**A key learning outcome:** Creating a separate recovery VLAN did not by itself prevent routed access. Testing exposed the gap; bidirectional ACLs were then applied and tested. The results demonstrate selected network isolation—not backup immutability, full ransomware resistance, or production readiness.
 
-- Cybersecurity Analyst
-- Security Operations Center Analyst
-- Incident Response Analyst
-- Network Administrator
-- Systems or Security Administrator
-- Vulnerability Management
-- Digital Forensics
-- Cybersecurity Consulting
+**[Explore the AVMC capstone →](projects/avmc-hospital-network-capstone/)**
 
----
+## Supervised Practicum: Computer Lab Infrastructure
 
-## Start Here
+Participated in the redesign and physical deployment of **two Hocking College computer labs**, including workstation relocation, installation and connection of Alienware systems, cable organization, and functional verification. The practicum connects classroom networking concepts to real equipment handling, deployment discipline, troubleshooting, and documentation.
 
-For a concise review of my qualifications and practical experience, begin with:
+The portfolio will include verified deployment evidence and final workstation outcomes as they are documented.
 
-1. [Career Materials](career-materials/) — Résumé, professional biography, and career-planning materials  
-2. [Technical Work](technical-work/) — Security labs, scripts, configurations, and technical artifacts  
-3. [KC7 Cyber Investigations](k7-cyber/) — Log analysis, incident timelines, and investigative findings  
-4. [Forage Simulations](forage/) — Employer-designed virtual job simulation deliverables  
-5. [Certification Preparation](certification/) — Readiness assessments, scores, and targeted study plans  
-6. [Final Practicum](final-practicum/) — Portfolio evidence, reflection, and defense presentation  
+**[View practicum work →](final-practicum/)**
 
----
+## Additional Work & Evidence
 
-## Portfolio Directory
+| Portfolio area | What it demonstrates |
+| --- | --- |
+| [Technical Work](technical-work/) | Security labs, networking, troubleshooting, and technical documentation |
+| [KC7 Cyber Investigations](k7-cyber/) | Investigation methods, log analysis, and evidence-based findings |
+| [Forage Job Simulations](Forage/) | Employer-designed virtual tasks and completed simulation evidence |
+| [Career Materials](career-materials/) | Résumé, professional background, and career-development materials |
+| [Certification & Training](certification/) | Verified training, assessment evidence, and certification preparation |
+| [Final Practicum](final-practicum/) | Supervised lab work, project evidence, and professional reflection |
 
-| Portfolio Area | Description | Status |
-|---|---|---|
-| [Forage](forage/) | Employer-designed job simulations, task deliverables, and completion certificates | In progress |
-| [KC7 Cyber](k7-cyber/) | Cybersecurity investigations, queries, evidence, timelines, and analytical reports | In progress |
-| [Certification](certification/) | Certification research, readiness assessments, practice scores, and study plans | In progress |
-| [Technical Work](technical-work/) | Technical labs, scripts, security documentation, and practical artifacts | In progress |
-| [Career Materials](career-materials/) | Résumé, professional biography, cover letters, and career-development materials | In progress |
-| [Final Practicum](final-practicum/) | Final portfolio documentation, evidence index, reflection, and defense presentation | Planned |
+## Selected Training & Recognition
 
----
+- **Phi Theta Kappa** honor society member.
+- **Mastercard Cybersecurity Job Simulation (Forage)** — completed October 2026; included phishing-simulation planning and interpretation.
+- **AWS Certified Cloud Practitioner (CLF-C02) official practice exam** — training/practice completion; **not** an AWS certification.
+- Continuing coursework and independent learning in networking, cybersecurity, incident response, and governance.
 
-## Featured Work
+Credentials are identified as completed, in progress, or planned; simulation certificates are not represented as employment or professional certifications.
 
-The projects below will highlight selected examples of my strongest work as the practicum progresses.
+## Technical Areas
 
-| Project | Area | Skills Demonstrated | Evidence |
-|---|---|---|---|
-| Featured project to be added | Cybersecurity analysis | Investigation, analysis, and documentation | Pending |
-| Featured project to be added | Networking or systems | Configuration, administration, and troubleshooting | Pending |
-| Featured project to be added | Scripting or automation | Python, Bash, PowerShell, or data analysis | Pending |
+**Networking:** TCP/IP, VLANs, subnetting, Cisco Packet Tracer, DNS, DHCP, switching, routing, and ACL testing.  
+**Security:** Incident-response fundamentals, access control, network segmentation, vulnerability analysis, risk assessment, and security policy.  
+**Systems & tools:** Windows, Linux, Wireshark, VirtualBox, Nmap, Git/GitHub, and technical documentation.  
+**Governance:** NIST CSF 2.0 mapping, AI-use considerations, privacy, ethics, and organizational accountability.
 
-> Featured projects will link directly to technical documentation, supporting evidence, and final deliverables.
+My skills continue to develop through formal coursework, guided labs, independent practice, and review. Python and advanced networking coursework are part of my upcoming studies.
 
----
+## How I Document Projects
 
-## Technical Competencies
+For substantial work, I aim to show **the problem, the environment, the approach, the evidence, the result, the limitations, and the next improvement**. I distinguish simulated behavior from production capabilities and do not treat a blocked ping as proof of comprehensive security.
 
-### Security Operations
+## Career Interests
 
-- Security monitoring and alert analysis
-- Log and event investigation
-- Incident-response fundamentals
-- Threat identification and analysis
-- Vulnerability assessment
-- Evidence collection and timeline reconstruction
-- Security-policy evaluation
-- Risk analysis and mitigation
+I am interested in opportunities in **SOC/security analysis, incident response, network and systems administration, IT support, and cybersecurity governance** where I can contribute, learn from experienced professionals, and grow through hands-on responsibility.
 
-### Networking and Infrastructure
+**[Explore career materials →](career-materials/)**
 
-- TCP/IP networking fundamentals
-- Network configuration and troubleshooting
-- Packet capture and protocol analysis
-- Wireshark
-- Network-security controls
-- Hardware and infrastructure troubleshooting
-- Virtualized and cloud environments
+## Security, Privacy & Attribution
 
-### Systems Administration
-
-- Windows administration
-- Linux administration
-- User and permission management
-- System configuration and hardening
-- Command-line operations
-- Software and hardware troubleshooting
-- Access-control fundamentals
-
-### Scripting and Technical Tools
-
-- Python
-- Bash
-- PowerShell
-- Git and GitHub
-- Data processing and analysis
-- Security-task automation
-- Markdown documentation
-- Technical report development
-
-### Governance, Law, and Ethics
-
-- Cybersecurity policy analysis
-- Acceptable-use policy evaluation
-- Privacy and data-protection considerations
-- Computer Fraud and Abuse Act fundamentals
-- Ethical decision-making
-- Professional codes of conduct
-- Responsible use of artificial intelligence
+This public portfolio contains work from authorized academic or practice environments. Sensitive information, credentials, confidential records, and private third-party data should not be published. AI tools have assisted with research, troubleshooting, document organization, and editing; I remain responsible for verifying claims, documenting actual results, and accurately describing my contributions. The AVMC hospital is fictional and the simulation is not a claim of production deployment or regulatory certification.
 
 ---
 
-## Professional Strengths
-
-In addition to technical skills, I bring professional strengths in:
-
-- Analytical and critical thinking
-- Evidence-based decision-making
-- Technical writing and documentation
-- Ethical judgment
-- Clear professional communication
-- Human behavior and social-engineering awareness
-- Independent research
-- Problem-solving and troubleshooting
-- Project organization
-- Continuous learning
-
----
-
-## Education
-
-### Hocking College
-
-**Cybersecurity & Network Systems**  
-Current GPA: **3.9**
-
-- CYBR-2600 Cyber Security & Network Practicum
-- Cybersecurity operations
-- Networking and infrastructure
-- Windows and Linux administration
-- Python and scripting
-- Cybersecurity law and ethics
-- Incident response and security analysis
-
-### Ohio University
-
-**Bachelor of Arts in Psychology**
-
-Relevant strengths developed through this degree include research, behavioral analysis, communication, ethical reasoning, critical thinking, and understanding human factors that influence security.
-
----
-
-## Professional Recognition
-
-- **Phi Theta Kappa Honor Society member**
-- **3.9 cumulative GPA**
-- Continuing development through hands-on security investigations
-- Employer-designed virtual job simulations
-- Industry-certification preparation
-- Technical and professional portfolio development
-
----
-
-## Certification Development
-
-I am currently evaluating industry certifications that align with my technical background and career direction.
-
-Potential certification paths include:
-
-- CompTIA cybersecurity or infrastructure certifications
-- Cisco networking certifications
-- Python Institute certifications
-- Other approved industry credentials
-
-Readiness assessments, practice results, and targeted study plans will be documented in the [Certification](certification/) directory.
-
----
-
-## Documentation Approach
-
-Each major portfolio project is documented using a consistent professional framework:
-
-1. **Objective** — What problem or task needed to be addressed  
-2. **Environment** — Systems, tools, technologies, and data involved  
-3. **Methodology** — The process used to complete the work  
-4. **Evidence** — Logs, screenshots, output, queries, or other supporting information  
-5. **Analysis** — Interpretation of the evidence and technical findings  
-6. **Results** — The final outcome or conclusion  
-7. **Recommendations** — Proposed security improvements or next steps  
-8. **Reflection** — Lessons learned and areas for continued development  
-
-This approach demonstrates both the final result and the reasoning used to reach it.
-
----
-
-## Current Practicum Goals
-
-- [x] Create the professional GitHub portfolio
-- [x] Establish the required repository structure
-- [x] Confirm access to the Forage platform
-- [x] Confirm access to the KC7 Cyber classroom
-- [x] Select two Forage job simulations
-- [x] Identify a primary certification target
-- [x] Complete baseline certification assessment
-- [x] Add baseline résumé
-- [ ] Complete assigned KC7 Cyber investigations
-- [ ] Document technical projects and artifacts
-- [ ] Create an evidence-based portfolio summary
-- [ ] Complete the final practicum presentation and defense
-
----
-
-## Security and Privacy
-
-All technical work in this portfolio is performed in authorized environments or on systems for which appropriate permission has been granted.
-
-Sensitive credentials, personal information, confidential records, proprietary materials, protected network details, and active security secrets will not be published. Screenshots, logs, and datasets will be reviewed and sanitized before being added to the public repository.
-
----
-
-## Academic and Professional Integrity
-
-The materials in this portfolio accurately represent my participation, analysis, technical work, and professional development.
-
-Outside sources, borrowed code, templates, and artificial-intelligence tools will be acknowledged when required. Artificial intelligence may assist with research, brainstorming, editing, organization, or formatting, but it will not replace my technical analysis, decision-making, practical work, or responsibility for the final content.
-
-No qualifications, certifications, results, employment experience, or technical accomplishments will be fabricated or misrepresented.
-
----
 
 ## Contact
 
 I welcome opportunities to discuss cybersecurity, networking, systems administration, technical support, and related professional roles.
 
-- **Email:** [Add professional email address]
-- **LinkedIn:** [Add LinkedIn profile URL]
-- **GitHub:** [Add GitHub profile URL]
+- **Email:** [jamesjordon43@outlook.com]
+- **LinkedIn:** [www.linkedin.com/in/james-t-1894392bb]
+- **GitHub:** [(https://github.com/jjordon237)]
 - **Résumé:** [View my résumé](career-materials/)
 
 ---
@@ -275,8 +118,9 @@ I welcome opportunities to discuss cybersecurity, networking, systems administra
 
 This portfolio is actively updated as I complete new investigations, technical projects, job simulations, and professional-development activities.
 
-**James Jordon**  
-Cybersecurity & Network Systems
+
+**James Taylor Jordon** · Cybersecurity & Network Systems  
+[GitHub Profile] · [Portfolio Repository](https://github.com/jjordon237/CYBR-2600-Professional-Portfolio)
 
 </div>
 
