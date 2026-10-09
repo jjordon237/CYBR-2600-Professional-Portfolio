@@ -1,13 +1,17 @@
+[Technical_Work_README.md](https://github.com/user-attachments/files/33232392/Technical_Work_README.md)
 <div align="center">
 
-# Technical Work & Security Labs
+# Technical Work
 
-![Course](https://img.shields.io/badge/Course-CYBR--2600-1f6feb?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Technical%20Security-7c3aed?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
+### NETWORKING · SECURITY TESTING · SYSTEMS · TROUBLESHOOTING
 
-**Hands-on cybersecurity labs, technical documentation, scripts,  
-security assessments, and practical problem-solving artifacts.**
+![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
+![Focus](https://img.shields.io/badge/FOCUS-TECHNICAL_EVIDENCE-172B4D?style=flat-square&labelColor=101827)
+![Approach](https://img.shields.io/badge/APPROACH-TEST_%26_DOCUMENT-15803D?style=flat-square&labelColor=101827)
+
+**Selected technical practice and evidence from academic simulations, authorized labs, and supervised IT work.**
+
+[Portfolio Home](../) · [AVMC Capstone](../projects/avmc-hospital-network-capstone/) · [Practicum](../final-practicum/) · [Career Materials](../career-materials/)
 
 </div>
 
@@ -15,181 +19,55 @@ security assessments, and practical problem-solving artifacts.**
 
 ## Overview
 
-This directory contains hands-on technical work completed as part of my **CYBR-2600 Cyber Security & Network Practicum**.
+This section documents technical skills developed through the **Hocking College Cybersecurity & Network Systems program**, guided practice, and authorized projects. The emphasis is on explaining what was configured or investigated, why the approach was chosen, how it was checked, and what limitations remain.
 
-The projects and artifacts in this folder demonstrate my ability to apply cybersecurity, networking, systems-administration, scripting, troubleshooting, and security-analysis skills to practical technical problems.
+Work is labeled accurately as an **academic simulation**, **practice lab**, or **supervised real-world activity**. A tool's appearance in a skills list does not by itself establish a completed test or demonstrated proficiency.
 
-Each project will be documented so that the purpose, process, tools, findings, and results can be clearly understood by instructors, classmates, and prospective employers.
+## Featured Technical Evidence
 
----
+| Area | Demonstrated work | Evidence location |
+|---|---|---|
+| Network architecture and segmentation | AVMC collapsed-core design, VLANs, trunks, SVIs, inter-VLAN routing, and trust-zone planning | [AVMC project](../projects/avmc-hospital-network-capstone/) |
+| Access control and validation | Extended ACLs, permitted and denied traffic tests, and recovery-network isolation corrections | [AVMC Week 8](../projects/avmc-hospital-network-capstone/Week%2008/) |
+| Infrastructure services | DHCP, DNS, internal/public web-service simulations, and representative IoT/BMS devices | [AVMC project](../projects/avmc-hospital-network-capstone/) |
+| Incident response and governance | Ransomware tabletop, after-action findings, and NIST CSF 2.0-aligned policy documentation | [AVMC Week 8](../projects/avmc-hospital-network-capstone/Week%2008/) |
+| Hands-on IT deployment | Supervised redesign of two college computer labs, workstation setup, cabling, and functionality checks | [Final Practicum](../final-practicum/) |
 
-## Technical Projects
+## Tools and Technologies in Coursework and Practice
 
-| Project or Lab | Technical Area | Tools and Technologies | Status | Documentation |
-|---|---|---|---|---|
-| To be added | Cybersecurity | To be identified | Planned | Pending |
-| To be added | Networking or systems | To be identified | Planned | Pending |
-| To be added | Scripting or automation | To be identified | Planned | Pending |
+**Networking:** Cisco Packet Tracer, Cisco IOS CLI, IPv4 addressing, subnetting, VLANs, 802.1Q trunks, routing, DHCP, DNS, and ACLs.
 
-> This table will be updated as technical projects and supporting documentation are completed.
+**Security and analysis:** Wireshark, Nmap, network segmentation, incident-response exercises, and structured validation of expected versus observed behavior.
 
----
+**Systems and documentation:** Windows, Linux, VirtualBox, Git/GitHub, technical reports, evidence organization, and change documentation.
 
-## Repository Organization
+These tools represent areas of coursework or practice; individual projects provide the evidence for specific accomplishments. Python and advanced networking are upcoming areas of formal study rather than completed course competencies.
 
-Each major project or lab will receive its own folder:
+## How Technical Work Is Documented
 
-```text
-technical-work/
-├── project-or-lab-name/
-│   ├── README.md
-│   ├── documentation/
-│   ├── scripts/
-│   ├── evidence/
-│   ├── screenshots/
-│   ├── results/
-│   └── reflection/
-└── README.md
-```
+For each substantial lab or project, I aim to record:
 
-Project folders may contain:
+1. **Objective and authorized environment** — what was being tested and where.
+2. **Design or procedure** — relevant architecture, configuration, or investigative method.
+3. **Evidence** — original screenshots, outputs, configurations, or observations where publishable.
+4. **Result and interpretation** — what worked, what failed, and why.
+5. **Limitations and next steps** — what the evidence does not prove and what remains to be improved.
 
-- Project objectives and background
-- Technical requirements
-- Network or system configurations
-- Scripts and source code
-- Commands and procedures
-- Security findings and analysis
-- Screenshots and supporting evidence
-- Troubleshooting notes
-- Results and recommendations
-- Personal reflections and lessons learned
+**Example:** AVMC's recovery VLAN initially allowed routed communication with production systems. The project documents that finding, the subsequent bidirectional ACL changes, and the resulting deny counters. This demonstrates selected network-access enforcement, not actual immutable storage or comprehensive ransomware protection.
 
----
+## Future Technical Entries
 
-## Technical Areas
+Additional authorized labs and completed coursework will be linked here as evidence is reviewed and published. Planned work is not presented as completed work.
 
-The work in this directory may include projects involving:
+## Responsible Practice and AI Attribution
 
-### Networking and Infrastructure
-
-- Network configuration and troubleshooting
-- TCP/IP and network-protocol analysis
-- Packet capture and Wireshark analysis
-- Network-security controls
-- Cloud or virtualized environments
-
-### Systems and Operations
-
-- Windows administration
-- Linux administration
-- User and permission management
-- System hardening
-- Command-line administration
-- Technical troubleshooting
-
-### Security Operations
-
-- Security monitoring
-- Vulnerability assessment
-- Threat identification
-- Incident investigation and response
-- Log and event analysis
-- Endpoint and network security
-
-### Scripting and Automation
-
-- Python scripting
-- Bash or PowerShell scripting
-- Data processing and analysis
-- Security-task automation
-- Tool development and testing
-
----
-
-## Project Documentation Framework
-
-Each technical project will generally include the following sections:
-
-1. **Objective** — The technical problem or task being addressed  
-2. **Environment** — Systems, networks, software, and tools used  
-3. **Methodology** — The process followed to complete the work  
-4. **Implementation** — Commands, configurations, scripts, or procedures used  
-5. **Evidence** — Screenshots, output, logs, or other supporting information  
-6. **Results** — The outcome of the project or investigation  
-7. **Security Considerations** — Relevant risks, controls, and limitations  
-8. **Troubleshooting** — Problems encountered and how they were resolved  
-9. **Recommendations** — Suggested improvements or next steps  
-10. **Reflection** — Skills strengthened and lessons learned  
-
----
-
-## Tools and Technologies
-
-Tools documented in this directory may include:
-
-| Category | Examples |
-|---|---|
-| Operating Systems | Windows, Windows Server, Linux |
-| Networking | Wireshark, TCP/IP tools, network simulators |
-| Security | Vulnerability scanners, monitoring tools, SIEM platforms |
-| Scripting | Python, Bash, PowerShell |
-| Virtualization | VirtualBox, VMware, cloud environments |
-| Documentation | Markdown, diagrams, screenshots, technical reports |
-| Version Control | Git and GitHub |
-
-> Tools will be added or updated as they are used throughout the practicum.
-
----
-
-## Skills Demonstrated
-
-The technical work in this directory may demonstrate:
-
-- Cybersecurity analysis
-- Network configuration and troubleshooting
-- Windows and Linux administration
-- Vulnerability identification
-- Incident-response procedures
-- Log and packet analysis
-- Python, Bash, or PowerShell scripting
-- Security automation
-- Technical research
-- Evidence collection
-- Problem-solving
-- Technical documentation
-
----
-
-## Security and Ethical Standards
-
-All technical work will be performed in authorized lab environments or on systems for which appropriate permission has been granted.
-
-No project in this portfolio is intended to encourage unauthorized access, disruption, exploitation, or misuse of computer systems. Sensitive credentials, personal information, confidential data, protected network information, and active security secrets will not be published.
-
----
-
-## Professional Purpose
-
-This directory provides tangible evidence of my ability to apply cybersecurity and information-technology knowledge to hands-on technical work. It demonstrates not only the final results of each project, but also the analytical process, technical decisions, troubleshooting, and documentation required to complete the work responsibly.
-
----
-
-## Academic and Professional Integrity
-
-All technical work, documentation, and reflections represent my own participation and understanding. Any outside sources, borrowed code, templates, or artificial-intelligence assistance will be identified when required. Proprietary, confidential, or otherwise restricted information will not be included.
+Public artifacts exclude passwords, private third-party information, and unauthorized system details. AI assistance may support explanations, troubleshooting, editing, and documentation organization; technical results are attributed to the actual lab or simulation evidence, and AI output is not treated as independent verification.
 
 ---
 
 <div align="center">
 
-**James Jordon**  
-CYBR-2600 Cyber Security & Network Practicum
-
-[Return to Main Portfolio](../README.md)
+**James Taylor Jordon** · Cybersecurity & Network Systems  
+[Portfolio Home](../) · [GitHub Profile](https://github.com/jjordon237)
 
 </div>
-
----
-
-*AI Assistance Disclosure: Generative AI was used to help organize, format, and compile the Markdown code for this README file.*
