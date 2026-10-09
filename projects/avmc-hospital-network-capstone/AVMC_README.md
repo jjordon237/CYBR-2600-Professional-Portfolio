@@ -1,20 +1,25 @@
-[README.md](https://github.com/user-attachments/files/33229746/README.md)
 <div align="center">
 
 <img src="Week%2008/images/avmc-logo.png" alt="Appalachian Valley Medical Center logo" width="390">
 
-# Appalachian Valley Medical Center
+<h1>Appalachian Valley Medical Center</h1>
+<h3>HEALTHCARE NETWORK SECURITY · CAPSTONE CASE STUDY</h3>
+<p><strong>Cisco Packet Tracer · Network Architecture · Segmentation · Incident Response</strong></p>
 
-### HEALTHCARE NETWORK SECURITY · CAPSTONE CASE STUDY
+<p>
+<img src="https://img.shields.io/badge/PROJECT-COMPLETED-15803D?style=flat-square&amp;labelColor=101827" alt="Project completed">
+<img src="https://img.shields.io/badge/NETWORK-9_OPERATIONAL_VLANS-2563EB?style=flat-square&amp;labelColor=101827" alt="Nine operational VLANs">
+<img src="https://img.shields.io/badge/VALIDATION-ACL_TESTING-2563EB?style=flat-square&amp;labelColor=101827" alt="ACL testing">
+<img src="https://img.shields.io/badge/GOVERNANCE-NIST_CSF_2.0-475569?style=flat-square&amp;labelColor=101827" alt="NIST CSF 2.0 governance">
+</p>
 
-**Cisco Packet Tracer · Network Architecture · Segmentation · Incident Response**
-
-![Status](https://img.shields.io/badge/PROJECT-COMPLETED-15803D?style=flat-square&labelColor=101827)
-![Network](https://img.shields.io/badge/NETWORK-9_OPERATIONAL_VLANS-2563EB?style=flat-square&labelColor=101827)
-![Security](https://img.shields.io/badge/VALIDATION-ACL_TESTING-2563EB?style=flat-square&labelColor=101827)
-![Framework](https://img.shields.io/badge/GOVERNANCE-NIST_CSF_2.0-475569?style=flat-square&labelColor=101827)
-
-[**Architecture**](#architecture-at-a-glance) · [**Security Evidence**](#security-validation-and-results) · [**Incident Response**](#ransomware-tabletop-and-recovery-redesign) · [**Documentation**](#project-artifacts) · [**Portfolio Home**](../../)
+<p>
+<a href="#architecture-at-a-glance">Architecture</a> ·
+<a href="#security-validation-and-results">Security Evidence</a> ·
+<a href="#ransomware-tabletop-and-recovery-redesign">Incident Response</a> ·
+<a href="#project-artifacts">Documentation</a> ·
+<a href="../../">Portfolio Home</a>
+</p>
 
 </div>
 
@@ -132,3 +137,4 @@ Generative AI assisted with technical explanations, troubleshooting, document or
 [Return to Professional Portfolio](../../)
 
 </div>
+DME.md…]()
