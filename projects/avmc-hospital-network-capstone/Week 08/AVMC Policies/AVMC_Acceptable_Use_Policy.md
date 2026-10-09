@@ -1,5 +1,8 @@
-<img src="assets/avmc-logo.png"
-style="width:2.2in;height:1.46667in" />
+<p align="center">
+  <img src="../images/avmc-logo.png"
+       alt="Appalachian Valley Medical Center logo"
+       width="320">
+</p>
 
 **APPALACHIAN VALLEY MEDICAL CENTER**
 
