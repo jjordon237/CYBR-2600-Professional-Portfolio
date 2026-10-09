@@ -1,263 +1,83 @@
+[Final_Practicum_README.md](https://github.com/user-attachments/files/33233779/Final_Practicum_README.md)
 <div align="center">
 
-# Final Practicum Portfolio & Defense
+# Final Practicum Portfolio
 
-![Course](https://img.shields.io/badge/Course-CYBR--2600-1f6feb?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Portfolio%20Defense-7c3aed?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
+### JAMES JORDON | CYBERSECURITY & NETWORK SYSTEMS
 
-**Final practicum documentation, portfolio evidence, professional  
-reflection, and presentation materials demonstrating career readiness.**
+![Program](https://img.shields.io/badge/PROGRAM-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
+![Focus](https://img.shields.io/badge/FOCUS-PRACTICAL_IT_%26_CAREER_READINESS-172B4D?style=flat-square&labelColor=101827)
+![Status](https://img.shields.io/badge/EVIDENCE-DOCUMENTATION_IN_PROGRESS-475569?style=flat-square&labelColor=101827)
+
+**Supervised infrastructure work · Network security capstone · Professional development · Evidence-based reflection**
+
+[Portfolio Home](../README.md) · [AVMC Capstone](../projects/avmc-hospital-network-capstone/) · [Technical Work](../technical-work/) · [Career Materials](../career-materials/)
 
 </div>
 
 ---
 
-## Overview
+## Practicum Overview
 
-This directory contains the final documentation and defense materials for my **CYBR-2600 Cyber Security & Network Practicum**.
+This page brings together my **CYBR-2600 Cyber Security & Network Practicum** experience at Hocking College. It distinguishes **supervised physical IT work**, **academic network simulations**, and **professional-development simulations**. My goal is to show what I worked on, what I learned, how I approached problems, and where further verification or experience is needed.
 
-The final practicum portfolio brings together evidence from my technical projects, virtual job simulations, KC7 Cyber investigations, certification preparation, career-development activities, and professional work logs.
+## Featured Supervised Experience: Two Computer-Lab Redesigns
 
-These materials demonstrate my technical growth, professional judgment, problem-solving process, communication skills, and readiness to transition from cybersecurity student to industry professional.
+As part of my supervised practicum, I assisted with the redesign and rearrangement of **two Hocking College computer labs**. The reported work included moving desks and computers, deploying and connecting Alienware workstations, organizing cabling, and checking workstation operation.
 
----
+| Work area | Activities documented to date | Professional relevance |
+|---|---|---|
+| Physical deployment | Repositioned workstations and furniture; connected systems | Equipment handling and organized deployment |
+| Cabling and connectivity | Arranged cables and checked workstation connectivity | Infrastructure discipline and fault isolation |
+| Functional verification | Tested deployed workstations | Validation rather than assuming a device works |
+| Troubleshooting | One Alienware workstation was reported unresolved at the time of the working draft | Accurate incident tracking and follow-up |
 
-## Final Deliverables
+**Evidence still being assembled:** before/after photographs, work dates and hours, room identifiers, equipment counts, troubleshooting disposition of the outstanding workstation, and supervisor confirmation. These details are not represented as verified until supporting records are added.
 
-| Deliverable | Purpose | Format | Status |
+## Featured Technical Project: Appalachian Valley Medical Center
+
+[**Explore the AVMC Healthcare Network Capstone**](../projects/avmc-hospital-network-capstone/)
+
+AVMC is a **fictional Cisco Packet Tracer healthcare environment**, developed as a separate academic capstone. Its collapsed-core design, functional VLAN segmentation, inter-VLAN routing, ACL controls, network services, and ransomware tabletop provide documented evidence of technical problem-solving and security governance.
+
+One important test revealed that creating a recovery VLAN did **not** automatically isolate it from routed production traffic. I added bidirectional ACL restrictions and validated the intended denials through testing and ACL counters. These results demonstrate selected controls within Packet Tracer, not production-grade backup immutability or full ransomware resilience.
+
+## Evidence Index
+
+| Competency | Supporting work | Evidence location | Status |
 |---|---|---|---|
-| Portfolio summary | Provides an overview of my practicum experience | Markdown or PDF | Planned |
-| Evidence index | Connects skills with supporting portfolio artifacts | Markdown | Planned |
-| Final reflection | Evaluates my growth, challenges, and lessons learned | Markdown or PDF | Planned |
-| Practicum presentation | Presents major accomplishments and professional development | PowerPoint or PDF | Planned |
-| Portfolio defense notes | Supports the oral explanation of my work and decisions | Markdown or PDF | Planned |
-| Updated résumé | Incorporates practicum accomplishments and technical experience | PDF | Planned |
-| Professional development plan | Establishes goals beyond the practicum | Markdown or PDF | Planned |
+| Physical IT deployment | Two supervised Hocking College lab redesigns | This page; photographs and work log to be added | Experience reported; evidence pending |
+| Network architecture and segmentation | AVMC VLANs, SVIs, trunking, and ACLs | [AVMC](../projects/avmc-hospital-network-capstone/) | Documented academic simulation |
+| Incident response and governance | AVMC ransomware tabletop, AUP, ACP, IRP | [AVMC Week 08](../projects/avmc-hospital-network-capstone/Week%2008/) | Documented academic work |
+| Security awareness | Mastercard phishing simulation design and results interpretation | [Forage](../Forage/) | Completed October 6, 2026 |
+| Web application security learning | Commonwealth Bank-associated authorized labs; Deloitte simulation | [Forage](../Forage/) | In progress |
+| Cloud foundations | AWS Academy Cloud Foundations, 20-hour training badge | [Certification](../certification/) | Training completed; certification exam not yet passed |
+| Professional communication | Updated public résumé and career materials | [Career Materials](../career-materials/) | Portfolio materials prepared |
+| KC7 investigation | No assignment yet | [KC7](../k7-cyber/) | Not started / awaiting assignment |
 
-> This table will be updated as final practicum requirements are completed.
+## Professional Reflection
 
----
+My practicum has reinforced that IT work is more than a successful configuration. Physical deployment requires organization, careful equipment handling, cable management, verification, and follow-through when a workstation does not behave as expected. AVMC similarly taught me to distinguish an intended security design from a tested security outcome: a VLAN alone was not sufficient evidence of isolation.
 
-## Repository Organization
+I have also learned to document limitations honestly. A simulation can demonstrate concepts without reproducing a production environment, and a training badge or virtual job simulation is not the same as industry certification or employment. I want employers to be able to trace my claims to work samples and understand what I would still need to learn on the job.
 
-Final practicum materials will be organized using the following structure:
+## Continuing Development
 
-```text
-final-practicum/
-├── portfolio-summary/
-├── evidence-index/
-├── final-reflection/
-├── defense-presentation/
-├── presentation-notes/
-├── updated-resume/
-├── professional-development-plan/
-└── README.md
-```
+My near-term priorities are completing the remaining Forage simulations, preparing for the AWS Certified Cloud Practitioner examination, strengthening networking skills, and beginning formal Python coursework. I will continue refining this portfolio as new work and verified evidence become available.
 
-This directory may include:
+## Presentation and Defense
 
-- Final portfolio summary
-- Portfolio evidence index
-- Technical-skills assessment
-- Final practicum reflection
-- Presentation slides
-- Portfolio defense notes
-- Updated résumé
-- Professional-development plan
-- Selected work samples
-- Supporting documentation
+The portfolio supports discussion of my technical choices, test results, failures and corrections, and career development. AVMC presentations and technical documentation are maintained with the capstone; this page does not claim that a separate practicum defense presentation has already been delivered.
 
----
+## Evidence and Publication Standards
 
-## Practicum Evidence
-
-My final portfolio may include evidence from the following areas:
-
-| Portfolio Area | Evidence |
-|---|---|
-| Forage simulations | Employer-designed task deliverables and completion certificates |
-| KC7 Cyber | Investigation notes, queries, evidence, timelines, and conclusions |
-| Certification preparation | Readiness assessments, practice scores, and targeted study plans |
-| Technical work | Labs, scripts, reports, configurations, and security artifacts |
-| Career materials | Résumé, professional biography, cover letters, and career planning |
-| Work logs | Documentation of activities, time invested, progress, and outcomes |
-| Professional reflection | Evaluation of technical growth and career readiness |
-
----
-
-## Portfolio Evidence Index
-
-The evidence index will connect individual portfolio artifacts with specific technical and professional competencies.
-
-| Competency | Supporting Evidence | Portfolio Location | Status |
-|---|---|---|---|
-| Cybersecurity analysis | To be selected | To be added | Pending |
-| Incident investigation | To be selected | To be added | Pending |
-| Networking and systems | To be selected | To be added | Pending |
-| Scripting and automation | To be selected | To be added | Pending |
-| Technical documentation | To be selected | To be added | Pending |
-| Risk and ethical reasoning | To be selected | To be added | Pending |
-| Professional communication | To be selected | To be added | Pending |
-| Career readiness | To be selected | To be added | Pending |
-
-> Each competency will be supported by specific, verifiable portfolio evidence.
-
----
-
-## Final Reflection Framework
-
-My final practicum reflection will address:
-
-1. **Starting Point** — My technical abilities and professional goals at the beginning of the practicum  
-2. **Major Accomplishments** — The most meaningful work completed during the course  
-3. **Technical Growth** — Skills and knowledge strengthened through hands-on experience  
-4. **Professional Growth** — Improvements in communication, documentation, organization, and judgment  
-5. **Challenges Encountered** — Technical or professional difficulties experienced  
-6. **Problem-Solving Process** — How those challenges were investigated and resolved  
-7. **Career Direction** — How the practicum influenced my professional interests  
-8. **Remaining Development Areas** — Skills requiring additional experience or study  
-9. **Future Goals** — Specific next steps for employment, certification, and continued learning  
-
----
-
-## Portfolio Defense Structure
-
-The final presentation and defense may follow this structure:
-
-### 1. Professional Introduction
-
-- Educational background
-- Career interests
-- Practicum goals
-- Initial skills assessment
-
-### 2. Selected Portfolio Evidence
-
-- Forage simulation accomplishments
-- KC7 Cyber investigation findings
-- Certification-preparation progress
-- Technical projects and artifacts
-- Career-development materials
-
-### 3. Technical Decision-Making
-
-- Technical problem or objective
-- Evidence and information considered
-- Tools and methods used
-- Challenges and limitations
-- Final decision or result
-
-### 4. Skills and Professional Growth
-
-- Strongest demonstrated competencies
-- New or improved technical skills
-- Professional communication and documentation
-- Ethical and security considerations
-- Lessons learned
-
-### 5. Career Readiness
-
-- Target career areas
-- Relevant portfolio evidence
-- Certification goals
-- Updated résumé
-- Continued professional-development plan
-
-### 6. Questions and Discussion
-
-- Explanation of technical choices
-- Defense of conclusions
-- Discussion of alternative approaches
-- Reflection on future improvement
-
----
-
-## Skills Demonstrated
-
-The final practicum portfolio may demonstrate:
-
-- Cybersecurity analysis
-- Security investigation
-- Network and system administration
-- Vulnerability identification
-- Incident-response procedures
-- Scripting and automation
-- Risk assessment
-- Ethical decision-making
-- Technical troubleshooting
-- Evidence-based reasoning
-- Technical documentation
-- Professional communication
-- Project organization
-- Career planning
-- Continuous professional development
-
----
-
-## Final Quality Checklist
-
-Before submitting or presenting the final portfolio, I will verify that:
-
-- [ ] Every required portfolio folder is present
-- [ ] All links work correctly
-- [ ] Project descriptions are clear and accurate
-- [ ] Technical artifacts include appropriate documentation
-- [ ] Screenshots and supporting evidence are readable
-- [ ] Sensitive or confidential information has been removed
-- [ ] Outside sources and borrowed code are properly credited
-- [ ] AI assistance is disclosed where required
-- [ ] Spelling, grammar, and formatting are consistent
-- [ ] The evidence index connects skills with specific artifacts
-- [ ] The final reflection explains growth and lessons learned
-- [ ] The résumé includes relevant practicum accomplishments
-- [ ] Presentation slides are complete and professionally formatted
-- [ ] Defense notes are prepared
-- [ ] The main portfolio README links to all major sections
-
----
-
-## Professional Development Plan
-
-Following the practicum, I intend to continue developing my career readiness through:
-
-- Continued hands-on cybersecurity practice
-- Industry-certification preparation
-- Expansion of technical projects
-- Regular updates to my GitHub portfolio
-- Participation in cybersecurity investigations and challenges
-- Professional networking
-- Résumé and interview preparation
-- Exploration of employment and internship opportunities
-- Continued learning in emerging security technologies
-
-Specific goals, milestones, and target dates will be documented in the final professional-development plan.
-
----
-
-## Professional Purpose
-
-This directory serves as the final demonstration of my work during the CYBR-2600 practicum. It presents organized, verifiable evidence of my technical abilities, analytical reasoning, professional communication, ethical judgment, and continued development as a cybersecurity professional.
-
----
-
-## Academic and Professional Integrity
-
-All portfolio materials accurately represent my participation, technical work, analysis, and professional development. Outside sources, borrowed code, templates, and artificial-intelligence tools will be identified when required.
-
-No qualifications, credentials, results, or technical accomplishments will be fabricated or misrepresented. Proprietary, confidential, sensitive, or otherwise restricted information will not be included in the public portfolio.
+Only authorized educational or simulated material is published. College-specific asset identifiers, confidential records, credentials, and personal information are excluded. Supervisory approval and final equipment outcomes will be documented when verified. AI assistance may support editing, organization, and review, but reported results and professional claims remain my responsibility.
 
 ---
 
 <div align="center">
 
-**James Jordon**  
-CYBR-2600 Cyber Security & Network Practicum
-
-[Return to Main Portfolio](../README.md)
+**James Jordon** · CYBR-2600 Cyber Security & Network Practicum  
+[Return to Professional Portfolio](../README.md)
 
 </div>
-
----
-
-*AI Assistance Disclosure: Generative AI was used to help organize, format, and compile the Markdown code for this README file.*
