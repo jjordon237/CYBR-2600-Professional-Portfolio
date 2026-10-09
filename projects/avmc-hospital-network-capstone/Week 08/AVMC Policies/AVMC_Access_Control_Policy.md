@@ -4,11 +4,10 @@
        width="320">
 </p>
 
-**APPALACHIAN VALLEY MEDICAL CENTER**
+<h1 align="center">APPALACHIAN VALLEY MEDICAL CENTER</h1>
 
-Access Control Policy
+<h2 align="center">Access Control Policy</h2>
 
-**AVMC Information Technology & Security**
 
 | **Policy Owner** | AVMC Information Technology and Security                                                                    |
 |------------------|-------------------------------------------------------------------------------------------------------------|
