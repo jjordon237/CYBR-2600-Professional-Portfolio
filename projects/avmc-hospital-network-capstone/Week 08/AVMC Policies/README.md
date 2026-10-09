@@ -1,5 +1,11 @@
 [README.md](https://github.com/user-attachments/files/33231000/README.md)
 <div align="center">
+  
+<p align="center">
+  <img src="../images/avmc-logo.png"
+       alt="Appalachian Valley Medical Center logo"
+       width="320">
+</p>
 
 # AVMC | Security Policy Library
 
