@@ -1,17 +1,14 @@
-[Final_Practicum_README.md](https://github.com/user-attachments/files/33233779/Final_Practicum_README.md)
 <div align="center">
 
-# Final Practicum Portfolio
-
-### JAMES JORDON | CYBERSECURITY & NETWORK SYSTEMS
-
-![Program](https://img.shields.io/badge/PROGRAM-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![Focus](https://img.shields.io/badge/FOCUS-PRACTICAL_IT_%26_CAREER_READINESS-172B4D?style=flat-square&labelColor=101827)
-![Status](https://img.shields.io/badge/EVIDENCE-DOCUMENTATION_IN_PROGRESS-475569?style=flat-square&labelColor=101827)
-
-**Supervised infrastructure work · Network security capstone · Professional development · Evidence-based reflection**
-
-[Portfolio Home](../README.md) · [AVMC Capstone](../projects/avmc-hospital-network-capstone/) · [Technical Work](../technical-work/) · [Career Materials](../career-materials/)
+<h1>Final Practicum Portfolio</h1>
+<h3>JAMES JORDON | CYBERSECURITY &amp; NETWORK SYSTEMS</h3>
+<p>
+<img src="https://img.shields.io/badge/PROGRAM-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Program">
+<img src="https://img.shields.io/badge/FOCUS-PRACTICAL_IT_%26_CAREER_READINESS-172B4D?style=flat-square&amp;labelColor=101827" alt="Focus">
+<img src="https://img.shields.io/badge/EVIDENCE-DOCUMENTATION_IN_PROGRESS-475569?style=flat-square&amp;labelColor=101827" alt="Status">
+</p>
+<p><strong>Supervised infrastructure work · Network security capstone · Professional development · Evidence-based reflection</strong></p>
+<p><a href="../README.md">Portfolio Home</a> · <a href="../projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="../technical-work/">Technical Work</a> · <a href="../career-materials/">Career Materials</a></p>
 
 </div>
 
