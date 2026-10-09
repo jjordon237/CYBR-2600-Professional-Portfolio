@@ -1,13 +1,12 @@
-[KC7_README.md](https://github.com/user-attachments/files/33232203/KC7_README.md)
 <div align="center">
 
-# KC7 Cyber Investigations
-
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![Area](https://img.shields.io/badge/FOCUS-SECURITY_INVESTIGATIONS-172B4D?style=flat-square&labelColor=101827)
-![Status](https://img.shields.io/badge/STATUS-UPCOMING-64748B?style=flat-square&labelColor=101827)
-
-**Investigation exercises and documented findings will be added when assigned and completed.**
+<h1>KC7 Cyber Investigations</h1>
+<p>
+<img src="https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Portfolio">
+<img src="https://img.shields.io/badge/FOCUS-SECURITY_INVESTIGATIONS-172B4D?style=flat-square&amp;labelColor=101827" alt="Area">
+<img src="https://img.shields.io/badge/STATUS-UPCOMING-64748B?style=flat-square&amp;labelColor=101827" alt="Status">
+</p>
+<p><strong>Investigation exercises and documented findings will be added when assigned and completed.</strong></p>
 
 </div>
 
