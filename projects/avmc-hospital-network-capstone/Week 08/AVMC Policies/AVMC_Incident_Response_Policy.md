@@ -4,7 +4,7 @@
        width="320">
 </p>
 
-**APPALACHIAN VALLEY MEDICAL CENTER**
+<h1 align="center">APPALACHIAN VALLEY MEDICAL CENTER</h1>
 
 Incident Response Policy
 
