@@ -1,3 +1,4 @@
+[README_previous_full.md](https://github.com/user-attachments/files/33229601/README_previous_full.md)
 <p align="center">
   <img src="/projects/avmc-hospital-network-capstone/Week%2008/images/avmc-logo.png"
        alt="Appalachian Valley Medical Center (AVMC) logo"
