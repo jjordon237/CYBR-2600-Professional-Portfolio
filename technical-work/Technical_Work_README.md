@@ -1,17 +1,14 @@
-[Technical_Work_README.md](https://github.com/user-attachments/files/33232392/Technical_Work_README.md)
 <div align="center">
 
-# Technical Work
-
-### NETWORKING · SECURITY TESTING · SYSTEMS · TROUBLESHOOTING
-
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![Focus](https://img.shields.io/badge/FOCUS-TECHNICAL_EVIDENCE-172B4D?style=flat-square&labelColor=101827)
-![Approach](https://img.shields.io/badge/APPROACH-TEST_%26_DOCUMENT-15803D?style=flat-square&labelColor=101827)
-
-**Selected technical practice and evidence from academic simulations, authorized labs, and supervised IT work.**
-
-[Portfolio Home](../) · [AVMC Capstone](../projects/avmc-hospital-network-capstone/) · [Practicum](../final-practicum/) · [Career Materials](../career-materials/)
+<h1>Technical Work</h1>
+<h3>NETWORKING · SECURITY TESTING · SYSTEMS · TROUBLESHOOTING</h3>
+<p>
+<img src="https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Portfolio">
+<img src="https://img.shields.io/badge/FOCUS-TECHNICAL_EVIDENCE-172B4D?style=flat-square&amp;labelColor=101827" alt="Focus">
+<img src="https://img.shields.io/badge/APPROACH-TEST_%26_DOCUMENT-15803D?style=flat-square&amp;labelColor=101827" alt="Approach">
+</p>
+<p><strong>Selected technical practice and evidence from academic simulations, authorized labs, and supervised IT work.</strong></p>
+<p><a href="../">Portfolio Home</a> · <a href="../projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="../final-practicum/">Practicum</a> · <a href="../career-materials/">Career Materials</a></p>
 
 </div>
 
@@ -67,7 +64,7 @@ Public artifacts exclude passwords, private third-party information, and unautho
 
 <div align="center">
 
-**James Taylor Jordon** · Cybersecurity & Network Systems  
+**James Jordon** · Cybersecurity & Network Systems  
 [Portfolio Home](../) · [GitHub Profile](https://github.com/jjordon237)
 
 </div>
