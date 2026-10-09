@@ -2,7 +2,6 @@
 layout: default
 title: "James Jordon | Cybersecurity Portfolio"
 ---
-
 <div align="center">
 
 <h1>James Jordon</h1>
