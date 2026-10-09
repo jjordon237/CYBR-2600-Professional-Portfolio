@@ -1,26 +1,16 @@
 <div align="center">
 
 <h1>Career Materials</h1>
-
+<h3>JAMES JORDON | CYBERSECURITY &amp; NETWORK SYSTEMS</h3>
 <p>
-  <a href="James_Jordon_Cybersecurity_Resume_Public.pdf">
-    View My Cybersecurity Résumé (PDF)
-  </a>
+<img src="https://img.shields.io/badge/FOCUS-CAREER_DEVELOPMENT-2563EB?style=flat-square&amp;labelColor=101827" alt="Focus">
+<img src="https://img.shields.io/badge/PROGRAM-CYBR--2600-172B4D?style=flat-square&amp;labelColor=101827" alt="Program">
+<img src="https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&amp;labelColor=101827" alt="Graduation">
 </p>
+<p><strong>Professional background · Career direction · Resumes · Technical evidence</strong></p>
+<p><a href="../README.md">Portfolio Home</a> · <a href="../projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="../final-practicum/">Practicum</a> · <a href="../certification/">Certifications</a></p>
 
 </div>
-
-<h3 align="center">JAMES JORDON| CYBERSECURITY & NETWORK SYSTEMS</h3>
-
-![Focus](https://img.shields.io/badge/FOCUS-CAREER_DEVELOPMENT-2563EB?style=flat-square&labelColor=101827)
-![Program](https://img.shields.io/badge/PROGRAM-CYBR--2600-172B4D?style=flat-square&labelColor=101827)
-![Graduation](https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&labelColor=101827)
-
-**Professional background · Career direction · Resumes · Technical evidence**
-
-[Portfolio Home](../README.md) · [AVMC Capstone](../projects/avmc-hospital-network-capstone/) · [Practicum](../final-practicum/) · [Certifications](../certification/)
-
-
 
 ---
 
@@ -59,7 +49,7 @@ These experiences complement developing technical skills in networking, security
 
 ## Resume and Application Documents
 
-The baseline and cybersecurity-focused resumes have been prepared as part of my portfolio development. **A public, employer-ready resume download will be linked here once the final PDF is uploaded and its filename verified.** Until then, this page does not point to a missing file.
+The baseline and cybersecurity-focused resumes have been prepared as part of my portfolio development. **Public résumé:** [View or download my cybersecurity résumé (PDF)](James_Jordon_Cybersecurity_Resume_Public.pdf). The PDF must be uploaded into this same `career-materials/` directory for this link to work.
 
 Cover letters and role-specific resume versions may be added for particular opportunities. These are not represented as completed public documents until published.
 
