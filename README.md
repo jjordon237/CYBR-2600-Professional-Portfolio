@@ -1,5 +1,3 @@
-[CYBR2600_Professional_Portfolio_README.md](https://github.com/user-attachments/files/33226671/CYBR2600_Professional_Portfolio_README.md)
-
 <div align="center">
 
 <h1>James Jordon</h1>
@@ -43,7 +41,7 @@ This portfolio presents selected **academic simulations**, **supervised hands-on
 
 ## Featured Project: Appalachian Valley Medical Center (AVMC)
 
-**Simulated Healthcare Network & Cybersecurity Capstone | Cisco Packet Tracer**
+**Simulated Healthcare Network & Cybersecurity Capstone — Cisco Packet Tracer**
 
 Designed, configured, tested, and documented a fictional hospital network using a collapsed-core architecture. The project integrates network segmentation, controlled inter-VLAN connectivity, operational services, healthcare-oriented security policies, and a ransomware incident-response tabletop.
 
