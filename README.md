@@ -1,24 +1,38 @@
 [CYBR2600_Professional_Portfolio_README.md](https://github.com/user-attachments/files/33226671/CYBR2600_Professional_Portfolio_README.md)
+
 <div align="center">
 
-# James Taylor Jordon
+<h1>James Jordon</h1>
 
-### CYBERSECURITY & NETWORK SYSTEMS
+<h3>CYBERSECURITY & NETWORK SYSTEMS</h3>
 
-**Security Analysis · Incident Response · Network Infrastructure · Governance & Risk**
+<p><strong>
+Security Analysis · Incident Response · Network Infrastructure · Governance & Risk
+</strong></p>
 
-![Program](https://img.shields.io/badge/PROGRAM-CYBERSECURITY_%26_NETWORK_SYSTEMS-172B4D?style=flat-square&labelColor=101827&color=2563EB)
-![GPA](https://img.shields.io/badge/GPA-3.93-15803D?style=flat-square&labelColor=101827)
-![Practicum](https://img.shields.io/badge/PRACTICUM-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![Graduation](https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&labelColor=101827)
+<p>
+<img src="https://img.shields.io/badge/PROGRAM-CYBERSECURITY_%26_NETWORK_SYSTEMS-2563EB?style=flat-square&labelColor=101827">
+<img src="https://img.shields.io/badge/GPA-3.93-15803D?style=flat-square&labelColor=101827">
+<img src="https://img.shields.io/badge/PRACTICUM-CYBR--2600-2563EB?style=flat-square&labelColor=101827">
+<img src="https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&labelColor=101827">
+</p>
 
-**Hocking College** · A.A.S. Cybersecurity & Network Systems (expected December 2026)  
-**Ohio University** · B.A. Psychology
+<p>
+<strong>Hocking College</strong> · A.A.S. Cybersecurity & Network Systems (Expected December 2026)
+</p>
 
-[**Featured AVMC Project**](projects/avmc-hospital-network-capstone/) · [**Practicum**](final-practicum/) · [**Career Materials**](career-materials/) · [**GitHub Profile**](https://github.com/jjordon237)
+<p>
+<strong>Ohio University</strong> · B.A. Psychology
+</p>
+
+<p>
+<a href="projects/avmc-hospital-network-capstone/">AVMC Project</a> ·
+<a href="final-practicum/">Practicum</a> ·
+<a href="career-materials/">Career Materials</a> ·
+<a href="https://github.com/jjordon237">GitHub Profile</a>
+</p>
 
 </div>
-
 ---
 
 ## About Me
