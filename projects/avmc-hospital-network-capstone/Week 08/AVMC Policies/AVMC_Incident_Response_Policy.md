@@ -6,9 +6,8 @@
 
 <h1 align="center">APPALACHIAN VALLEY MEDICAL CENTER</h1>
 
-Incident Response Policy
+<h2 align="center">Incident Response Policy</h2>
 
-**AVMC Information Technology & Security**
 
 | **Policy Owner** | AVMC Information Technology and Security                                                                            |
 |------------------|---------------------------------------------------------------------------------------------------------------------|
