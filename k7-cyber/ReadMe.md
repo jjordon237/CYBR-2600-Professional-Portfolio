@@ -1,50 +1,33 @@
+[KC7_README.md](https://github.com/user-attachments/files/33232203/KC7_README.md)
 <div align="center">
 
 # KC7 Cyber Investigations
 
-![Course](https://img.shields.io/badge/Course-CYBR--2600-1f6feb?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-KC7%20Cyber-7c3aed?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
+![Area](https://img.shields.io/badge/FOCUS-SECURITY_INVESTIGATIONS-172B4D?style=flat-square&labelColor=101827)
+![Status](https://img.shields.io/badge/STATUS-UPCOMING-64748B?style=flat-square&labelColor=101827)
 
-**Hands-on cybersecurity investigations demonstrating log analysis,  
-threat detection, incident response, and evidence-based reasoning.**
+**Investigation exercises and documented findings will be added when assigned and completed.**
 
 </div>
 
 ---
 
-## Overview
+## Project Status — Coming Soon
 
-This directory contains cybersecurity investigation work completed through the [KC7 Cyber](https://kc7cyber.com/) platform as part of my **CYBR-2600 Cyber Security & Network Practicum**.
+This section is reserved for future **KC7 cybersecurity investigation** work within my CYBR-2600 professional portfolio. No KC7 investigation has been assigned to me by my practicum supervisor at this time, so there are no completed cases or results to present here.
 
-KC7 Cyber activities provide experience investigating simulated security incidents using realistic datasets, system logs, and threat intelligence. These challenges allow me to practice identifying suspicious behavior, constructing event timelines, analyzing evidence, and communicating defensible conclusions.
+## Planned Documentation
 
----
+When an investigation is assigned and completed, I intend to document the scenario and objectives, the tools and data provided, my investigation process, relevant evidence, findings, limitations, and lessons learned. Only authorized exercises and appropriately sanitized evidence will be published.
 
-## Completed Investigations
+## Explore Other Completed Work
 
-| Investigation | Primary Focus | Key Skills | Status | Write-Up |
-|---|---|---|---|---|
-| To be assigned | Security investigation | Log analysis and evidence collection | Planned | Pending |
-| To be assigned | Threat investigation | Incident analysis and documentation | Planned | Pending |
-
-> This table will be updated as investigations and supporting documentation are completed.
+- [AVMC Healthcare Network Capstone](../projects/avmc-hospital-network-capstone/)
+- [Forage Virtual Job Simulations](../Forage/)
+- [Technical Work](../technical-work/)
+- [Professional Portfolio Home](../)
 
 ---
 
-## Repository Organization
-
-Each completed investigation will receive its own folder:
-
-```text
-k7-cyber/
-├── investigation-name/
-│   ├── README.md
-│   ├── investigation-notes/
-│   ├── queries/
-│   ├── evidence/
-│   ├── screenshots/
-│   └── final-report/
-└── README.md---
-
-*AI Assistance Disclosure: Generative AI was used to help organize, format, and compile the Markdown code for this README file.*
+*Portfolio note: This page is a placeholder for future assigned work, not a claim of completed KC7 investigations. Generative AI assisted with editing and Markdown presentation; content and publication decisions remain my responsibility.*
