@@ -1,17 +1,14 @@
-[Certification_README_Updated_AWS.md](https://github.com/user-attachments/files/33230668/Certification_README_Updated_AWS.md)
 <div align="center">
 
-# Certification & Professional Training
-
-### CYBERSECURITY · CLOUD FUNDAMENTALS · TECHNICAL DEVELOPMENT
-
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![AWS Academy](https://img.shields.io/badge/AWS_ACADEMY-CLOUD_FOUNDATIONS_COMPLETED-15803D?style=flat-square&labelColor=101827)
-![Certifications](https://img.shields.io/badge/CERTIFICATION_EXAMS-IN_PREPARATION-475569?style=flat-square&labelColor=101827)
-
-**Verified learning activities, certification preparation, and professional development.**
-
-[Portfolio Home](../) · [Career Materials](../career-materials/) · [Forage Simulations](../Forage/)
+<h1>Certification &amp; Professional Training</h1>
+<h3>CYBERSECURITY · CLOUD FUNDAMENTALS · TECHNICAL DEVELOPMENT</h3>
+<p>
+<img src="https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Portfolio">
+<img src="https://img.shields.io/badge/AWS_ACADEMY-CLOUD_FOUNDATIONS_COMPLETED-15803D?style=flat-square&amp;labelColor=101827" alt="AWS Academy">
+<img src="https://img.shields.io/badge/CERTIFICATION_EXAMS-IN_PREPARATION-475569?style=flat-square&amp;labelColor=101827" alt="Certifications">
+</p>
+<p><strong>Verified learning activities, certification preparation, and professional development.</strong></p>
+<p><a href="../">Portfolio Home</a> · <a href="../career-materials/">Career Materials</a> · <a href="../Forage/">Forage Simulations</a></p>
 
 </div>
 
@@ -95,7 +92,7 @@ Generative AI assisted with organizing and editing this portfolio page. Credenti
 
 <div align="center">
 
-**James Taylor Jordon** · Cybersecurity & Network Systems  
+**James Jordon** · Cybersecurity & Network Systems  
 [Return to Professional Portfolio](../)
 
 </div>
