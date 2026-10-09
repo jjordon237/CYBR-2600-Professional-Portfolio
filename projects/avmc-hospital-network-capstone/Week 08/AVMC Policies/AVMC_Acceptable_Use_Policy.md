@@ -4,11 +4,9 @@
        width="320">
 </p>
 
-**APPALACHIAN VALLEY MEDICAL CENTER**
+<h1 align="center">APPALACHIAN VALLEY MEDICAL CENTER</h1>
 
-Acceptable Use Policy
-
-*AVMC Information Technology & Security*
+<h2 align="center">Acceptable Use Policy</h2>
 
 | **Policy Owner** | AVMC Information Technology and Security                                                              |
 |------------------|-------------------------------------------------------------------------------------------------------|
