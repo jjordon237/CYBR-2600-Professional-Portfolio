@@ -1,18 +1,15 @@
-[Forage_README.md](https://github.com/user-attachments/files/33232770/Forage_README.md)
 <div align="center">
 
-# Forage | Virtual Job Simulations
-
-### CYBERSECURITY · SECURITY AWARENESS · WEB APPLICATION SECURITY
-
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&labelColor=101827)
-![Platform](https://img.shields.io/badge/PLATFORM-FORAGE-172B4D?style=flat-square&labelColor=101827)
-![Completed](https://img.shields.io/badge/COMPLETED-MASTERCARD-15803D?style=flat-square&labelColor=101827)
-![In Progress](https://img.shields.io/badge/IN_PROGRESS-2_SIMULATIONS-64748B?style=flat-square&labelColor=101827)
-
-**Employer-designed virtual exercises | Practical skills, documented outcomes, and professional development**
-
-[Portfolio Home](../README.md) · [Technical Work](../technical-work/) · [Certifications & Training](../certification/) · [Career Materials](../career-materials/)
+<h1>Forage | Virtual Job Simulations</h1>
+<h3>CYBERSECURITY · SECURITY AWARENESS · WEB APPLICATION SECURITY</h3>
+<p>
+<img src="https://img.shields.io/badge/PORTFOLIO-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Portfolio">
+<img src="https://img.shields.io/badge/PLATFORM-FORAGE-172B4D?style=flat-square&amp;labelColor=101827" alt="Platform">
+<img src="https://img.shields.io/badge/COMPLETED-MASTERCARD-15803D?style=flat-square&amp;labelColor=101827" alt="Completed">
+<img src="https://img.shields.io/badge/IN_PROGRESS-2_SIMULATIONS-64748B?style=flat-square&amp;labelColor=101827" alt="In Progress">
+</p>
+<p><strong>Employer-designed virtual exercises | Practical skills, documented outcomes, and professional development</strong></p>
+<p><a href="../README.md">Portfolio Home</a> · <a href="../technical-work/">Technical Work</a> · <a href="../certification/">Certifications &amp; Training</a> · <a href="../career-materials/">Career Materials</a></p>
 
 </div>
 
@@ -87,7 +84,7 @@ Generative AI assisted with organizing and editing this portfolio page. I distin
 
 <div align="center">
 
-**James Taylor Jordon** · Cybersecurity & Network Systems  
+**James Jordon** · Cybersecurity & Network Systems  
 [Professional Portfolio](../README.md) · [GitHub Profile](https://github.com/jjordon237)
 
 </div>
