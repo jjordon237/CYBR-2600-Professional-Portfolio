@@ -13,7 +13,7 @@ title: Final Practicum Portfolio
 <img src="https://img.shields.io/badge/EVIDENCE-DOCUMENTED_%26_ONGOING-475569?style=flat-square&amp;labelColor=101827" alt="Status">
 </p>
 <p><strong>Supervised infrastructure work · Network security capstone · Professional development · Evidence-based reflection</strong></p>
-<p><a href="../README.md">Portfolio Home</a> · <a href="../projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="../technical-work/">Technical Work</a> · <a href="../career-materials/">Career Materials</a></p>
+<p><a href="../">Portfolio Home</a> · <a href="../projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="../technical-work/">Technical Work</a> · <a href="../career-materials/">Career Materials</a></p>
 
 </div>
 
@@ -49,7 +49,7 @@ One important test revealed that creating a recovery VLAN did **not** automatica
 |---|---|---|---|
 | Physical IT deployment | JL357 deployment and other supervised lab activities | This page; original photographs and separate appendix | JL357 details documented; other lab details pending |
 | Network architecture and segmentation | AVMC VLANs, SVIs, trunking, and ACLs | [AVMC](../projects/avmc-hospital-network-capstone/) | Documented academic simulation |
-| Incident response and governance | AVMC ransomware tabletop, AUP, ACP, IRP | [AVMC Week 08](../projects/avmc-hospital-network-capstone/Week%2008/) | Documented academic work |
+| Incident response and governance | AVMC ransomware tabletop, AUP, ACP, IRP | [AVMC Policies](../projects/avmc-hospital-network-capstone/Week%2008/AVMC%20Policies/) | Documented academic work |
 | Security awareness | Mastercard phishing simulation design and results interpretation | [Forage](../Forage/) | Completed October 6, 2026 |
 | Web application security learning | Commonwealth Bank-associated authorized labs; Deloitte simulation | [Forage](../Forage/) | In progress |
 | Cloud foundations | AWS Academy Cloud Foundations, 20-hour training badge | [Certification](../certification/) | Training completed; certification exam not yet passed |
@@ -105,6 +105,6 @@ Only authorized educational or simulated material is published. College-specific
 <div align="center">
 
 **James Jordon** · CYBR-2600 Cyber Security & Network Practicum  
-[Return to Professional Portfolio](../README.md)
+[Return to Professional Portfolio](../)
 
 </div>
