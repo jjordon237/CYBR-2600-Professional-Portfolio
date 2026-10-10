@@ -16,7 +16,7 @@ title: James Jordon | Cybersecurity Portfolio
 </p>
 <p><strong>Hocking College</strong> · A.A.S. Cybersecurity &amp; Network Systems (expected December 2026)</p>
 <p><strong>Ohio University</strong> · B.A. Psychology</p>
-<p><a href="projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="final-practicum/">Practicum</a> · <a href="Competitions/Cyber%20Skyline/">NCL Competitions</a> · <a href="career-materials/">Career Materials</a> · <a href="https://github.com/jjordon237">GitHub</a></p>
+<p><a href="projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="final-practicum/">Practicum</a> · <a href="Competitions/Cyber_Skyline/">Cyber Skyline / NCL</a> · <a href="career-materials/">Career Materials</a> · <a href="https://github.com/jjordon237">GitHub</a></p>
 
 </div>
 
