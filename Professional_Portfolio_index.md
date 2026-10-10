@@ -1,40 +1,25 @@
 ---
 layout: default
-title: "James Jordon | Cybersecurity Portfolio"
+title: James Jordon | Cybersecurity Portfolio
 ---
+
 <div align="center">
 
 <h1>James Jordon</h1>
-
-<h3>CYBERSECURITY & NETWORK SYSTEMS</h3>
-
-<p><strong>
-Security Analysis · Incident Response · Network Infrastructure · Governance & Risk
-</strong></p>
-
+<h3>CYBERSECURITY &amp; NETWORK SYSTEMS</h3>
+<p><strong>Security Analysis · Incident Response · Network Infrastructure · Governance &amp; Risk</strong></p>
 <p>
-<img src="https://img.shields.io/badge/PROGRAM-CYBERSECURITY_%26_NETWORK_SYSTEMS-2563EB?style=flat-square&labelColor=101827">
-<img src="https://img.shields.io/badge/GPA-3.93-15803D?style=flat-square&labelColor=101827">
-<img src="https://img.shields.io/badge/PRACTICUM-CYBR--2600-2563EB?style=flat-square&labelColor=101827">
-<img src="https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&labelColor=101827">
+<img src="https://img.shields.io/badge/PROGRAM-CYBERSECURITY_%26_NETWORK_SYSTEMS-2563EB?style=flat-square&amp;labelColor=101827" alt="Program">
+<img src="https://img.shields.io/badge/GPA-3.93-15803D?style=flat-square&amp;labelColor=101827" alt="GPA">
+<img src="https://img.shields.io/badge/PRACTICUM-CYBR--2600-2563EB?style=flat-square&amp;labelColor=101827" alt="Practicum">
+<img src="https://img.shields.io/badge/GRADUATION-DEC_2026-475569?style=flat-square&amp;labelColor=101827" alt="Graduation">
 </p>
-
-<p>
-<strong>Hocking College</strong> · A.A.S. Cybersecurity & Network Systems (Expected December 2026)
-</p>
-
-<p>
-<strong>Ohio University</strong> · B.A. Psychology
-</p>
-
-<p>
-<a href="projects/avmc-hospital-network-capstone/">AVMC Project</a> ·
-<a href="final-practicum/">Practicum</a> ·
-<a href="career-materials/">Career Materials</a> ·
-<a href="https://github.com/jjordon237">GitHub Profile</a>
-</p>
+<p><strong>Hocking College</strong> · A.A.S. Cybersecurity &amp; Network Systems (expected December 2026)</p>
+<p><strong>Ohio University</strong> · B.A. Psychology</p>
+<p><a href="projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="final-practicum/">Practicum</a> · <a href="Competitions/Cyber%20Skyline/">NCL Competitions</a> · <a href="career-materials/">Career Materials</a> · <a href="https://github.com/jjordon237">GitHub</a></p>
 
 </div>
+
 ---
 
 ## About Me
@@ -75,12 +60,29 @@ The portfolio will include verified deployment evidence and final workstation ou
 
 | Portfolio area | What it demonstrates |
 | --- | --- |
+| [National Cyber League / Cyber Skyline](Competitions/Cyber%20Skyline/) | Four verified competition participations; individual and team scouting reports, OSINT, cryptography, and network analysis |
 | [Technical Work](technical-work/) | Security labs, networking, troubleshooting, and technical documentation |
 | [KC7 Cyber Investigations](k7-cyber/) | Investigation methods, log analysis, and evidence-based findings |
 | [Forage Job Simulations](Forage/) | Employer-designed virtual tasks and completed simulation evidence |
 | [Career Materials](career-materials/) | Résumé, professional background, and career-development materials |
 | [Certification & Training](certification/) | Verified training, assessment evidence, and certification preparation |
 | [Final Practicum](final-practicum/) | Supervised lab work, project evidence, and professional reflection |
+
+
+## National Cyber League — Cyber Skyline Competitions
+
+Participated in four National Cyber League (NCL) competitions during Fall 2025 and Spring 2026. Official certificates and scouting reports document both individual and team performance in authorized cybersecurity challenges.
+
+| Competition | National result | Percentile |
+|---|---:|---:|
+| Spring 2026 Team — Royal Flush | 229 of 3,634 | 94th |
+| Fall 2025 Team — HockingCyberHawks | 435 of 4,214 | 90th |
+| Fall 2025 Individual | 2,081 of 7,873 | 74th |
+| Spring 2026 Individual | 2,673 of 7,010 | 62nd |
+
+Areas practiced include open-source intelligence (OSINT), password security, cryptography, log analysis, and network traffic analysis. Team results reflect shared performance, not individual rankings.
+
+**[Explore verified NCL certificates and scouting reports →](Competitions/Cyber%20Skyline/)**
 
 ## Selected Training & Recognition
 
@@ -116,25 +118,5 @@ This public portfolio contains work from authorized academic or practice environ
 
 ---
 
-## Contact
-
-I welcome opportunities to discuss cybersecurity, networking, systems administration, technical support, and related professional roles.
-
-- **Email:** [jamesjordon43@outlook.com](mailto:jamesjordon43@outlook.com)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/james-t-1894392bb/)
-- **GitHub:** [github.com/jjordon237](https://github.com/jjordon237)
-- **Résumé:** [View my résumé](career-materials/)
-
----
-
-<div align="center">
-
-### Thank You for Visiting
-
-This portfolio is actively updated as I complete new investigations, technical projects, job simulations, and professional-development activities.
-
-
 **James Jordon** · Cybersecurity & Network Systems  
-[GitHub Profile] · [Portfolio Repository](https://github.com/jjordon237/CYBR-2600-Professional-Portfolio)
-
-</div>
+[GitHub Profile](https://github.com/jjordon237) · [Portfolio Repository](https://github.com/jjordon237/CYBR-2600-Professional-Portfolio)
