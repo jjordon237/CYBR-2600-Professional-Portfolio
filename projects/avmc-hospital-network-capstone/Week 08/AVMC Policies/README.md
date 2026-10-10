@@ -30,9 +30,9 @@ This folder contains the **approved final policy set** for Appalachian Valley Me
 
 | Policy | Purpose | NIST CSF 2.0 alignment | Final source |
 |---|---|---|---|
-| **Acceptable Use Policy (AUP)** | Sets expectations for appropriate use of AVMC systems, accounts, information, and connected devices. | **GOVERN, PROTECT** | [Final AUP (DOCX)](AVMC_Acceptable_Use_Policy_Final_Final_FINAL.docx) |
-| **Access Control Policy (ACP)** | Establishes identity, role-based authorization, least privilege, access reviews, and restrictions around protected systems and recovery assets. | **GOVERN, PROTECT** | [Final ACP (DOCX)](AVMC_Access_Control_Policy_Final_Final_FINAL.docx) |
-| **Incident Response Policy (IRP)** | Defines incident escalation, containment, evidence handling, coordinated response, recovery, and post-incident improvement. | **GOVERN, DETECT, RESPOND, RECOVER** | [Final IRP (DOCX)](AVMC_Incident_Response_Policy_Final_Final_FINAL.docx) |
+| **Acceptable Use Policy (AUP)** | Sets expectations for appropriate use of AVMC systems, accounts, information, and connected devices. | **GOVERN, PROTECT** | [Final AUP (PDF)](AVMC_Acceptable_Use_Policy.pdf) |
+| **Access Control Policy (ACP)** | Establishes identity, role-based authorization, least privilege, access reviews, and restrictions around protected systems and recovery assets. | **GOVERN, PROTECT** | [Final ACP (PDF)](AVMC_Access_Control_Policy.pdf) |
+| **Incident Response Policy (IRP)** | Defines incident escalation, containment, evidence handling, coordinated response, recovery, and post-incident improvement. | **GOVERN, DETECT, RESPOND, RECOVER** | [Final IRP (PDF)](AVMC_Incident_Response_Policy.pdf) |
 
 *Function mappings summarize policy relevance; consult the full documents for their actual requirements and detailed mappings.*
 
