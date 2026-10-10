@@ -55,7 +55,7 @@ The portfolio will include verified deployment evidence and final workstation ou
 
 | Portfolio area | What it demonstrates |
 | --- | --- |
-| [National Cyber League / Cyber Skyline](Competitions/Cyber%20Skyline/) | Four verified competition participations; individual and team scouting reports, OSINT, cryptography, and network analysis |
+| [National Cyber League / Cyber Skyline](Competitions/Cyber_Skyline/) | Four verified competition participations; individual and team scouting reports, OSINT, cryptography, and network analysis |
 | [Technical Work](technical-work/) | Security labs, networking, troubleshooting, and technical documentation |
 | [KC7 Cyber Investigations](k7-cyber/) | Investigation methods, log analysis, and evidence-based findings |
 | [Forage Job Simulations](Forage/) | Employer-designed virtual tasks and completed simulation evidence |
