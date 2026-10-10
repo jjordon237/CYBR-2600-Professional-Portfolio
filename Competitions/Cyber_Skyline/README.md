@@ -39,14 +39,14 @@ The **overall national percentiles below come from the official scouting reports
 
 ## Certificates and scouting reports
 
-All four certificates are **certificates of participation**. Each PDF is preserved unchanged. The external verification links are printed on the originals.
+All four certificates are **certificates of participation**. Each PDF is preserved unchanged. The local scouting-report links require the eight PDFs to be uploaded into the `certificates-and-reports` directory with exactly the filenames shown. The Verify Badge links use the participation verification addresses printed on the official certificates. Cyber Skyline report-verification pages are not currently available; the scouting reports are preserved as PDFs below.
 
-| Competition | Certificate | Detailed scouting report | External verification |
+| Competition | Certificate | Detailed scouting report | Verify Badge |
 |---|---|---|---|
-| Spring 2026 Team | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Spring%202026%20Team.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Spring%202026%20Team.pdf) | [Verify certificate](https://cyberskyline.com/verify/2C2XJU6UAR7Q) · [Verify report](https://cyberskyline.com/report/1N9MQ350D4G4) |
-| Spring 2026 Individual | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Spring%202026%20Ind.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Spring%202026%20Ind.pdf) | [Verify certificate](https://cyberskyline.com/verify/H3NQWKEAQFR8) · [Verify report](https://cyberskyline.com/report/YCVGAMRLY5KE) |
-| Fall 2025 Team | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Fall%202025%20Team.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Fall%202025%20Team.pdf) | [Verify certificate](https://cyberskyline.com/verify/W0RQ35CVW6GM) · [Verify report](https://cyberskyline.com/report/48G8LEEEQNE6) |
-| Fall 2025 Individual | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Fall%202025%20Ind.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Fall%202025%20Ind.pdf) | [Verify certificate](https://cyberskyline.com/verify/7UM0K0PGRUUA) · [Verify report](https://cyberskyline.com/report/K78284JN04FN) |
+| Spring 2026 Team | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Spring%202026%20Team.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Spring%202026%20Team.pdf) | [Verify Badge](https://cyberskyline.com/verify/2C2XJU6UAR7Q) |
+| Spring 2026 Individual | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Spring%202026%20Ind.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Spring%202026%20Ind.pdf) | [Verify Badge](https://cyberskyline.com/verify/H3NQWKEAQFR8) |
+| Fall 2025 Team | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Fall%202025%20Team.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Fall%202025%20Team.pdf) | [Verify Badge](https://cyberskyline.com/verify/W0RQ35CVW6GM) |
+| Fall 2025 Individual | [Certificate](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Certificate%20Fall%202025%20Ind.pdf) | [Scouting report](certificates-and-reports/James%20Jordon%20-%20Cyber%20Skyline%20Report%20Fall%202025%20Ind.pdf) | [Verify Badge](https://cyberskyline.com/verify/7UM0K0PGRUUA) |
 
 ## Demonstrated skills and learning
 
