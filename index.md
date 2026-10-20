@@ -16,7 +16,7 @@ title: James Jordon | Cybersecurity Portfolio
 </p>
 <p><strong>Hocking College</strong> · A.A.S. Cybersecurity &amp; Network Systems (expected December 2026)</p>
 <p><strong>Ohio University</strong> · B.A. Psychology</p>
-<p><a href="projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="final-practicum/">Practicum</a> · <a href="Competitions/Cyber_Skyline/">Cyber Skyline / NCL</a> · <a href="career-materials/">Career Materials</a> · <a href="https://github.com/jjordon237">GitHub</a></p>
+<p><a href="projects/avmc-hospital-network-capstone/">AVMC Capstone</a> · <a href="projects/pdf-download-investigation/">PDF Investigation</a> · <a href="final-practicum/">Practicum</a> · <a href="Competitions/Cyber_Skyline/">Cyber Skyline / NCL</a> · <a href="career-materials/">Career Materials</a> · <a href="https://github.com/jjordon237">GitHub</a></p>
 
 </div>
 
@@ -30,6 +30,12 @@ This portfolio presents selected **academic simulations**, **supervised hands-on
 
 ## Featured Project: Appalachian Valley Medical Center (AVMC)
 
+<div align="center">
+<a href="projects/avmc-hospital-network-capstone/">
+<img src="projects/avmc-hospital-network-capstone/Week%2008/images/avmc-logo.png" alt="Appalachian Valley Medical Center — AVMC project logo" width="310">
+</a>
+</div>
+
 **Simulated Healthcare Network & Cybersecurity Capstone — Cisco Packet Tracer**
 
 Designed, configured, tested, and documented a fictional hospital network using a collapsed-core architecture. The project integrates network segmentation, controlled inter-VLAN connectivity, operational services, healthcare-oriented security policies, and a ransomware incident-response tabletop.
@@ -37,9 +43,10 @@ Designed, configured, tested, and documented a fictional hospital network using 
 **Technical highlights**
 
 - Multilayer switching with VLANs, trunk links, switched virtual interfaces (SVIs), and inter-VLAN routing.
-- Segmented Administration, Clinical, Imaging/Lab, Medical IoT, Servers, IT Management, Guest, Facilities/BMS, and Cold Backup environments.
+- Ten operational VLANs covering Administration, Clinical, Imaging/Lab, Medical IoT, Servers, IT Management, Guest, Facilities/BMS, Cold Backup, and Dietary Services.
 - Access control lists (ACLs) to restrict unnecessary traffic between trust zones.
 - Internal and public-facing web-service simulations, DNS/DHCP, and representative building-management/IoT devices.
+- Subsequent VLAN 100 Dietary Services integration with an 802.1Q uplink, validated inter-VLAN connectivity, and a working internal web portal at `dietary.avmc.org`.
 - Before-and-after Packet Tracer tests documenting recovery-zone reachability and subsequent ACL enforcement.
 - Acceptable Use, Access Control, and Incident Response policies mapped to NIST CSF 2.0.
 - Ransomware tabletop, after-action analysis, corrective actions, and technical evidence.
@@ -47,6 +54,22 @@ Designed, configured, tested, and documented a fictional hospital network using 
 **A key learning outcome:** Creating a separate recovery VLAN did not by itself prevent routed access. Testing exposed the gap; bidirectional ACLs were then applied and tested. The results demonstrate selected network isolation—not backup immutability, full ransomware resistance, or production readiness.
 
 **[Explore the AVMC capstone →](projects/avmc-hospital-network-capstone/)**
+
+## Featured Investigation: PDF Viewer Download Failure
+
+**Web Application Troubleshooting — Microsoft Edge, Browser Developer Tools & HTTP Analysis**
+
+Investigated a reproducible download problem in the ChatGPT document viewer using an evidence-first approach. A direct conversation link downloaded the PDF successfully, but the viewer's download control produced no corresponding Edge Downloads entry. Network inspection showed successful HTTP responses, including JSON download metadata and PDF content headers; **the underlying root cause remains unconfirmed**.
+
+**Technical highlights**
+
+- Used Edge Developer Tools to inspect requests, HTTP status codes, response headers, and JSON metadata.
+- Compared a working direct-link download with a failing viewer-control workflow.
+- Examined `Content-Type: application/pdf` and `Content-Disposition: attachment` without confusing successful responses with a completed browser save.
+- Documented a confirmed workaround, competing hypotheses, investigation limitations, and supporting screenshots.
+- Restricted testing to my own file and authorized browser diagnostics; no security vulnerability or exploit is claimed.
+
+**[Explore the PDF download investigation and evidence →](projects/pdf-download-investigation/)**
 
 ## Supervised Practicum: Computer Lab Infrastructure
 
@@ -61,6 +84,7 @@ The portfolio will include verified deployment evidence and final workstation ou
 | Portfolio area | What it demonstrates |
 | --- | --- |
 | [National Cyber League / Cyber Skyline](Competitions/Cyber%20Skyline/) | Four verified competition participations; individual and team scouting reports, OSINT, cryptography, and network analysis |
+| [PDF Download Investigation](projects/pdf-download-investigation/) | Browser DevTools, HTTP diagnostics, controlled reproduction, and documented findings |
 | [Technical Work](technical-work/) | Security labs, networking, troubleshooting, and technical documentation |
 | [KC7 Cyber Investigations](k7-cyber/) | Investigation methods, log analysis, and evidence-based findings |
 | [Forage Job Simulations](Forage/) | Employer-designed virtual tasks and completed simulation evidence |
