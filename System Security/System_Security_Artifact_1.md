@@ -1,6 +1,7 @@
 # Security Event Investigation and Log Analysis — Frothly Guided Activities
 
-**Course:** Cisco CCNA Security (2026AU-CYBR-2102-C535)- Cisco NetAcad — Data and Tools for Defense Analysts
+**Course:** Cisco CCNA Security (2026AU-CYBR-2102-C535): Cisco NetAcad - Data and Tools for Defense Analysts
+
 **Semester:** Autumn 2026  
 **Knowledge Area:** System Security  
 **Crosscutting Concepts:** Confidentiality, Integrity, Availability, Risk, Adversarial Thinking, Systems Thinking, Responsible AI  
